@@ -9,7 +9,7 @@ use App\User;
 
 class DashboardController extends Controller
 {
-    //
+
 
     // public function __construct(){
 
